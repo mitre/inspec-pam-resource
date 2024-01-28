@@ -1,3 +1,4 @@
+.DS_Store
 *.gem
 *.rbc
 /.config
@@ -9,6 +10,13 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+spec/results/**
+.kitchen
+.kitchen.local.yml
+Gemfile.lock
+inspec.lock
+.kitchen
+vendor/**
 
 # Used by dotenv library to load environment variables.
 # .env
@@ -54,3 +62,6 @@ build-iPhoneSimulator/
 
 # Used by RuboCop. Remote config files pulled in from inherit_from directive.
 # .rubocop-https?--*
+
+# VS CODE / VSCODIUM
+.vscode
