@@ -17,3 +17,9 @@ This is an update and refactoring of the inspec pam resource.
 ## Contribtions & Bugs
 
 Please open an issue
+
+## NOTICE & LICENSE
+
+[LICENSE](./LICENSE.md "Apache-2.0 License")
+
+[NOTICE](./NOTICE.md "NOTICE")
