@@ -16,10 +16,10 @@ This is an update and refactoring of the inspec pam resource.
 
 ## Contribtions & Bugs
 
-Please open an issue
+See [CONTRIBUTING](./CONTRIBUTING.md "Contribution")
 
 ## NOTICE & LICENSE
 
-[LICENSE](./LICENSE.md "Apache-2.0 License")
+See [LICENSE](./LICENSE.md "Apache-2.0 License")
 
-[NOTICE](./NOTICE.md "NOTICE")
+See [NOTICE](./NOTICE.md "NOTICE")
